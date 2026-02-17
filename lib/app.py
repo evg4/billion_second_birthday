@@ -19,3 +19,4 @@ def find_billion_birthday():
                 suffix = 'th'
     return f"You will turn one billion seconds old on {one_billion_birthday.strftime(f'{one_billion_birthday.day}{suffix} %B %Y at %H:%M:%S!')}"
 
+#print(find_billion_birthday())
