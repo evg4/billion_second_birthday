@@ -23,3 +23,11 @@ Inspired by [billion birthday](https://billionbirthday.com/), [@markrshaw99 ](ht
 
 ```
 You will be prompted to enter your birthday. You must enter at least a year, month and date, but the hours, seconds and minutes are optional, and will default to 0 if not entered.
+
+## Future development
+This is just a backend project at the moment so it would be nice to create a front-end to go with it, like the website that was our inspiration.<br>We also discussed the possibility of including user input for how much further in to the future they would like to see, i.e. rather than defaulting to one billion, they could choose the number themself.
+
+
+## Licence
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+ 
